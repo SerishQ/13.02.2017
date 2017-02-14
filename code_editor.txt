@@ -1,0 +1,15 @@
+                                    Sublime Text3 xususiyyetleri
+  Sublime Text,kod yazma tecrubemizi vizual olaraq inkisaf etdirecek bezi xususiyyetlere malikdir. Bu xususiyyetlerden bezileri :
+1) Yazi tipleri ve araliqlar : Dogru yazi tipini ve araliq nisbetini secmek kodumuzu xususilesdirmenin en ferdi yollarindan biri. Ilk olaraq kodlamaya uygun,beraber araliqli yazi tipi secmek lazimdir. Misal olaraq : SourceCode,ProConsolas,Monaco,Inconsolata,Anonymous Pro
+2) Highlight_line : Bu ayar, istifade etdiyiniz reng qrupuna bagli olaraq kursorunuzun uzerinde oldugu setirin ferqli bir rengde gorunmesini temin eder. O an hansi setirde oldugunuzu gormek, yazmaqda oldugunuz hisseye diqqetinizi vermek, setirler arasinda asanliqla kecid etmenizi ve ferqli bir proqrama baxib tekrar kodunuza donduyunuzde harada qaldiginizi tez tapa bilmeyinizi temin eder.
+3) Highlight_modified_tabs : Calismaqda oldugunuz layihede etdiyiniz son deyisikliklerin hele kaydedilmedigi fayllari merkez halina getirmek ve bu ayar  pencerede yer almis  ancaq yazilmamis nisanlari vurgulamaq ucundur.
+4)Fade_fold_buttons : Kod parcalarini qatlayib acmaq olur. Bu ayari aktiv hala getirdikde, qatlama / acma ucun kenarda cixan ox isaresi yerinde sabit qalacaq.
+5)Bolder_folder_labels: Yan menyuya daha guclu vizual elementler elave etmek olur.
+6)Aciq fayllari yan menyuda gosterme : Bu secim Preferences faylinda aktiv deyil, View-SideBar-Show open files etmek lazimdir.
+7)Yan menyunu hizalamaq: Bu eslinde bir ayardan cox bir ipucudur. Oxsar bir cedvelde etdiyiniz kimi, yan menyunun genisliyini qurmaq ucun, metn mezmunu ile yan menyunun serhedine cut tiklayarak istediyiniz genisliye getire bilersiniz.
+8)Elaveler:  Sublime Text'e elave xususiyyetleri getirme baximindan cox faydalidir.Elaveleri idare etmek ucun Package Control istifade etmek meslehetlidir.
+9)Bracket_highlighter: Moterize ve sintaksis etiketlerini renglendiren bir elavedir. Lakin ciddi olaraq bu elave, o an oldugunuz kodun her hissesinin baslangic ve bitme noqtesini gosteren cox guclu bir vasitedir. Moterize tipi setir nomrelerinin oldugu yan menyuda gosterilir ve ferqli element tipleri ucun ferqli ikonlara sahibdir.
+10)Git_Gutter: Git layihenizde setir nomrelerinin sol terefinde olan sahede elave, deyisiklik edilen ve silinen setirler ucun ikon gosteren bir elavedir.
+11)Sublime_Linter: Bu elavenin setir arasi sehvleri one cixarma xususiyyeti sayesinde, gozunuzden qacan kicik sehvleri tapmaq olar. Elavenin genis dokumantasyonundan kodun sehvsiz ola bilmesi ucun bir cox gozel hell tapa bilersiniz.
+
+
